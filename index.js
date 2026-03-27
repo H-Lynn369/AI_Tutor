@@ -46,7 +46,7 @@ new CozeWebSDK.WebChatClient({
     */
     base: {
       icon: 'https://sf-coze-web-cdn.coze.com/obj/eden-sg/lm-lgvj/ljhwZthlaukjlkulzlp/coze/chatsdk-logo.png',
-      layout: 'mobile',
+      layout: 'pc',
       lang: 'en',
       zIndex: 1000
     },
