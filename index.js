@@ -63,7 +63,7 @@ new CozeWebSDK.WebChatClient({
     * Controls whether to display the floating ball at the bottom right corner of the page.
     */
     asstBtn: {
-      isNeed: true
+      isNeed: false
     },
     /**
     * The ui.footer parameter is used to add the footer of the chat window.
@@ -85,7 +85,7 @@ new CozeWebSDK.WebChatClient({
     chatBot: {
       title: 'Coze Bot',
       uploadable: true,
-      width: 1170,
+      width: 11700,
     },
   },
 });
